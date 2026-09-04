@@ -3,6 +3,10 @@
 .tba_auth_key
 .frc_api_key
 
+.CLAUDE.md
+
+._*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
