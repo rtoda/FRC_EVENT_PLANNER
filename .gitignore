@@ -4,6 +4,7 @@
 .frc_api_key
 
 .CLAUDE.md
+frcdatapy/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
